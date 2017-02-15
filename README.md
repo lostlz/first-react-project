@@ -487,13 +487,13 @@ module.exports = {
 
 
 
-参考链接：
+参考链接：  
 [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f "入门Webpack，看这篇就够了")  
 
 [create-react-app:来自Facebook官方的零配置命令行工具](https://segmentfault.com/a/1190000006055973 "create-react-app:来自Facebook官方的零配置命令行工具")  
 
 
-webpack进阶参考链接：
+webpack进阶参考链接：  
 [React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack/)  
 
 [一小时包教会 —— webpack 入门指南](http://www.w2bc.com/Article/50764 "一小时包教会 —— webpack 入门指南")  
