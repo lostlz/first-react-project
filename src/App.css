@@ -1,0 +1,9 @@
+.App{
+    font-size: xx-large;
+    text-align: center;
+    background-color: #222;
+    height: 150px;
+    color: white;
+    line-height: 150px; /*垂直居中关键*/
+}
+
