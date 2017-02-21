@@ -143,7 +143,7 @@ document.getElementById('root').appendChild(app());
 
 **package.json** 添加start命令，相当于把npm的start命令指向webpack命令
 
-```json
+```
 {
   "name": "first-react-project",
   "version": "1.0.0",
